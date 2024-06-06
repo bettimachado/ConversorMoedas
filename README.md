@@ -5,13 +5,19 @@ Um simples conversor de moedas em Java utilizando a API ExchangeRate-API para ob
 ## Funcionalidades
 
 - Conversão de moedas entre diferentes pares de moedas.
-- Os pares de moedas sempre serão com o Dólar Americano, e vice e versa.
+- Os pares de moedas sempre serão com o Dólar Americano, e as conversões serão vice e versa.
+- As outras moedas que farão par com o Dolar Americano são o Peso Argentino (ARS), Real Brasileiro (BRL) e o Euro (EUR).
 - Exemplo: Dólar Americano (USD) para Peso Argentino (ARS)
-     Peso Argentino (ARS) para Dólar Americamo (USD)
+  e Peso Argentino (ARS) para Dólar Americamo (USD).
 - Obtenção de taxas de câmbio atualizadas em tempo real.
 - Interface de linha de comando simples para entrada e saída de dados.
 
-## Pré-requisitos
-- Java instalado, foi utilizada a versão 17.
-- Conta na [ExchangeRate-API](https://www.exchangerate-api.com/) para obter uma chave de API.
+## Tecnologias Utilizadas
+- Intellij IDEA.
+- Java versão 17.
+- Conta na ExchangeRate API para obter uma chave de API.
+
+## Pessoas Contribuidoras
+- Time da Alura de instrutores.
+- Participantes do programa ONE através dos canais colaborativos.
 
